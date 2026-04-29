@@ -20,3 +20,7 @@ data/travel_times/
 
 # Secrets
 *.env
+
+# Local write-up / reference doc — not for public repo
+model.md
+fix_shapes.py
